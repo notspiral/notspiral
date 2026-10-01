@@ -1,49 +1,24 @@
-# 🧠 my coding journey
+# Hi, I'm Ziad
 
-zero to something — learning Git, Shell, C, and Python from scratch.
+Final-year **Electrical & Electronic Engineering** student (IET-accredited BEng, University of Greenwich, graduating 2027), interested in **embedded systems, power electronics and hardware testing**.
 
----
+### Currently working on
+**MPPT solar charge controller with a hardware-in-the-loop test rig** (final-year project, Oct 2026 – Mar 2027)
+- Microcontroller-controlled buck converter that tracks a solar panel's maximum power point and charges a Li-ion battery safely
+- Automated test rig + Python test runner that checks the controller against numbered requirements and reports PASS/FAIL
+- *Code will be published here after submission.*
 
-## what's going on here
+### Coursework highlights
+- **DC motor speed control:** built a rig with Arduino + LabVIEW, identified the transfer function, tuned a PID controller
+- **Robotic box retriever:** Arduino UNO driving a Dobot Magician robot arm (group project)
+- **Legacy code refactoring:** debugged and refactored a faulty C/Python codebase with Git branching
+- **FPGA:** VHDL seven-segment decoder on a DE1-SoC board (Intel Quartus Prime)
 
-this is where i'm dumping everything i learn such as notes, exercises and code
+### Tools I've used
+C · Python · MATLAB/Simulink · LabVIEW · Arduino · VHDL · Git · Linux · SolidWorks · oscilloscope · signal generator · soldering
 
----
+### On the side
+Running a Proxmox home server with Tailscale, and tinkering with my Linux desktop setup.
 
-## the syllabus
-
-**Shell 🐚**
-- [ ] 4. Introduction to Shell Scripting
-- [ ] 5. Advanced Shell Scripting
-
-**C 🔧** ![alt="c language badge"](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- [ ] 6. Learning C
-- [ ] 7. Header Files, Guards, and Macros
-- [ ] 8. Bitwise Operations
-- [ ] 9. Arithmetic Operations
-- [ ] 10. Pointers and Addressing
-- [ ] 11. Structs and Unions
-- [ ] 12. Streams
-
-**Python 🐍** ![alt="Python language badge"](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- [ ] 13. Learning Python
-- [ ] 14. Data Structures
-- [ ] 15. Importing Modules
-- [ ] 16. Object Orientated Programming
-
----
-
-## what's inside
-
-```
-.
-├── shell/
-│   └── notes/
-├── c/
-│   ├── notes/
-│   └── exercises/
-├── python/
-│   ├── notes/
-│   └── exercises/
-└── README.md
-```
+### Contact
+[LinkedIn](https://www.linkedin.com/in/ziad-sajed0810) · ziad.sajed@gmail.com
